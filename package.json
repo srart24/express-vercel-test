@@ -1,12 +1,12 @@
 {
   "name": "expressjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tes Doang",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [expressjd],
+  "keywords": ["expressjd", "srart24"],
   "author": "",
   "license": "ISC",
   "dependencies": {
