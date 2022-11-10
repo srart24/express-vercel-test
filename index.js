@@ -16,8 +16,8 @@ app.get("/tes", (req, res) => {
 
 
 // Initialize server
-app.listen(5000, () => {
-  console.log("Running on port 5000.");
+app.listen(8080, () => {
+  console.log("Running on port 8080");
 });
 
 module.exports = app;
