@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
 
 // Create GET request
 app.get("/tes", (req, res) => {
-  res.send("Tes Doang Cuy;");
+  res.send("Tes Doang Cuy");
 });
 
 // Initialize server
